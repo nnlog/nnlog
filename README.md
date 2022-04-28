@@ -1,4 +1,4 @@
-<h1> Hi, I`m developer N 👋</h1>  
+<h1> Hi, I`m student developer N 👋</h1>  
 
 <br/>  
 <h2> My tech stack 📚</h2>  
